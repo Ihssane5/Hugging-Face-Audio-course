@@ -63,7 +63,7 @@ This unit will lay the foundations of this course by covering and understanding 
 - the algorithm that make this computation is the STFT or Short Time Fourier Transform
 - It’s one of the most informative audio tools, it can help in music recording and speech to identify different vowel sounds as each vowel is characterised by particular frequencies.
 
-![image.png](unit1-Image/image%201.png)
+![image.png](Unit1-Image/image%201.png)
 
 - it’ s created by :
     - taking short segements of the audio signal
