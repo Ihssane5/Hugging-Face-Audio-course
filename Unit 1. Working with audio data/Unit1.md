@@ -46,7 +46,7 @@ This unit will lay the foundations of this course by covering and understanding 
 - waveform is a form of visualizing audio signals, also called time domain representation of sound which plots the sample values over time and illustrate the changes in the sound’s amplitude.
 - it plots the amplitude of the audio signal over time
 
-![image.png](Unit%201%20Working%20with%20audio%20data%20272f824ec80480689443e4b12c2ee5cb/image.png)
+![image.png](Unit1-Image/image.png)
 
 ## Frequency Spectrum
 
@@ -54,7 +54,7 @@ This unit will lay the foundations of this course by covering and understanding 
 - Power spectrum measures energy rathen than amplitude, this is a spectrum with the amplitude values squared.
 - visualize the amplitudes of the individual frequencies at a fixed point in time
 
-![image.png](Unit%201%20Working%20with%20audio%20data%20272f824ec80480689443e4b12c2ee5cb/image%201.png)
+![image.png](Unit1-Image/image%201.png)
 
 ## Spectrogram
 
@@ -63,7 +63,7 @@ This unit will lay the foundations of this course by covering and understanding 
 - the algorithm that make this computation is the STFT or Short Time Fourier Transform
 - It’s one of the most informative audio tools, it can help in music recording and speech to identify different vowel sounds as each vowel is characterised by particular frequencies.
 
-![image.png](Unit%201%20Working%20with%20audio%20data%20272f824ec80480689443e4b12c2ee5cb/image%202.png)
+![image.png](unit1-Image/image%202.png)
 
 - it’ s created by :
     - taking short segements of the audio signal
@@ -78,7 +78,7 @@ This unit will lay the foundations of this course by covering and understanding 
 - it approximates the non-linear frequency response of the human ear
 - created using the same steps as the spectogram, additionally each spectrum is sent through a set of filters, the so-called melfilterbank    to transform the frequencies to the mel scale.
 
-![image.png](Unit%201%20Working%20with%20audio%20data%20272f824ec80480689443e4b12c2ee5cb/image%203.png)
+![image.png](Unit1-Image/image%203.png)
 
 - The mel bands define a set of frequency ranges that divide the spectrum into perceptually meaningful components.
 - it’s common to express the strength of the mel frequency components in decibels, it’s commonly referred to as a log-mel spectrogram.
